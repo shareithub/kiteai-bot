@@ -7,7 +7,7 @@
 U can following this step !!
 Create screen :
 ```
-screen -S kiteAI
+screen -S kiteai
 ```
 Install Git :
 ```
