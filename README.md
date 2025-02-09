@@ -5,7 +5,10 @@
 # Join Kite AI : [CLICK HERE](https://testnet.gokite.ai?r=jbD4qztT)
 
 U can following this step !!
-
+Create screen :
+```
+screen -S kiteAI
+```
 Install Git :
 ```
 sudo apt install git
@@ -52,7 +55,11 @@ Run bot :
 ```
 python3 bot.py
 ```
+#DONE ?
 
+U can exit screen, after running bot :
+
+CTRL+A+D
 
 
 
