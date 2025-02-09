@@ -36,6 +36,7 @@ cd kiteai-bot
 Sign Venv :
 ```
 python3 -m venv venv
+source venv/bin/activate
 ```
 Install module :
 ```
