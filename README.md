@@ -43,6 +43,7 @@ Edit file .env :
 nano .env
 ```
 API_KEY=your_api_key_here
+
 WALLETS=0xYourWallet1,0xYourWallet2
 
 After done, u can save file : CTRL+X+Y ( ENTER )
