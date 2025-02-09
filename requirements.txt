@@ -2,3 +2,4 @@ shareithub
 requests
 faker
 termcolor
+python-dotenv
