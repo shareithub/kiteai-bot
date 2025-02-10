@@ -4,6 +4,7 @@
 # Join Telegram Channel : [CLICK HERE](https://t.me/SHAREITHUB_COM)
 # Join Kite AI : [CLICK HERE](https://testnet.gokite.ai?r=jbD4qztT)
 
+get groq api key : [CLICK HERE](https://chat.groq.com/)
 U can following this step !!
 Create screen :
 ```
